@@ -17,14 +17,14 @@ app.get('/', (req, res) => {
 
 // --- GAME CONFIGURATION --- //
 const IMAGE_SOURCES = [
-    'https://raw.githubusercontent.com/google/gemini-samples/main/website/docs/assets/prompts/memory_game_cat.png',
-    'https://raw.githubusercontent.com/google/gemini-samples/main/website/docs/assets/prompts/memory_game_dog.png',
-    'https://raw.githubusercontent.com/google/gemini-samples/main/website/docs/assets/prompts/memory_game_sun.png',
-    'https://raw.githubusercontent.com/google/gemini-samples/main/website/docs/assets/prompts/memory_game_star.png',
-    'https://raw.githubusercontent.com/google/gemini-samples/main/website/docs/assets/prompts/memory_game_car.png',
-    'https://raw.githubusercontent.com/google/gemini-samples/main/website/docs/assets/prompts/memory_game_boat.png',
-    'https://raw.githubusercontent.com/google/gemini-samples/main/website/docs/assets/prompts/memory_game_apple.png',
-    'https://raw.githubusercontent.com/google/gemini-samples/main/website/docs/assets/prompts/memory_game_ball.png'
+    'https://free-images.com/or/4b7e/dinosaur_theropod_dino.jpg',
+    'https://free-images.com/or/4b7e/dinosaur_triceratops_dino.jpg',
+    'https://free-images.com/or/4b7e/dinosaur_stegosaurus_dino.jpg',
+    'https://free-images.com/or/4b7e/dinosaur_brachiosaurus_dino.jpg',
+    'https://free-images.com/or/4b7e/dinosaur_pterodactyl_dino.jpg',
+    'https://free-images.com/or/4b7e/dinosaur_ankylosaurus_dino.jpg',
+    'https://free-images.com/or/4b7e/dinosaur_spinosaurus_dino.jpg',
+    'https://free-images.com/or/4b7e/dinosaur_velociraptor_dino.jpg'
 ];
 const TOTAL_PAIRS = IMAGE_SOURCES.length;
 // --- END GAME CONFIGURATION --- //
