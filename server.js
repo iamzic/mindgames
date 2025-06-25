@@ -17,14 +17,14 @@ app.get('/', (req, res) => {
 
 // --- GAME CONFIGURATION --- //
 const IMAGE_SOURCES = [
-    'https://free-images.com/or/4b7e/dinosaur_theropod_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_triceratops_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_stegosaurus_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_brachiosaurus_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_pterodactyl_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_ankylosaurus_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_spinosaurus_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_velociraptor_dino.jpg'
+    'public/dinosaurs/dino1.png',
+    'public/dinosaurs/dino2.png',
+    'public/dinosaurs/dino3.png',
+    'public/dinosaurs/dino4.png',
+    'public/dinosaurs/dino5.png',
+    'public/dinosaurs/dino6.png',
+    'public/dinosaurs/dino7.png',
+    'public/dinosaurs/dino8.png'
 ];
 const TOTAL_PAIRS = IMAGE_SOURCES.length;
 // --- END GAME CONFIGURATION --- //

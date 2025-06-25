@@ -2,14 +2,14 @@
 // Add URLs to your images here. You need 8 images for a 16-card game.
 // Use simple, child-friendly images.
 const imageSources = [
-    'https://free-images.com/or/4b7e/dinosaur_theropod_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_triceratops_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_stegosaurus_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_brachiosaurus_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_pterodactyl_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_ankylosaurus_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_spinosaurus_dino.jpg',
-    'https://free-images.com/or/4b7e/dinosaur_velociraptor_dino.jpg'
+    'dinosaurs/dino1.png',
+    'dinosaurs/dino2.png',
+    'dinosaurs/dino3.png',
+    'dinosaurs/dino4.png',
+    'dinosaurs/dino5.png',
+    'dinosaurs/dino6.png',
+    'dinosaurs/dino7.png',
+    'dinosaurs/dino8.png'
 ];
 // --- END IMAGE CUSTOMIZATION --- //
 
