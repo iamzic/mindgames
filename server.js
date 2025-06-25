@@ -17,14 +17,14 @@ app.get('/', (req, res) => {
 
 // --- GAME CONFIGURATION --- //
 const IMAGE_SOURCES = [
-    'public/dinosaurs/dino1.png',
-    'public/dinosaurs/dino2.png',
-    'public/dinosaurs/dino3.png',
-    'public/dinosaurs/dino4.png',
-    'public/dinosaurs/dino5.png',
-    'public/dinosaurs/dino6.png',
-    'public/dinosaurs/dino7.png',
-    'public/dinosaurs/dino8.png'
+    '/dinosaurs/dino1.png',
+    '/dinosaurs/dino2.png',
+    '/dinosaurs/dino3.png',
+    '/dinosaurs/dino4.png',
+    '/dinosaurs/dino5.png',
+    '/dinosaurs/dino6.png',
+    '/dinosaurs/dino7.png',
+    '/dinosaurs/dino8.png'
 ];
 const TOTAL_PAIRS = IMAGE_SOURCES.length;
 // --- END GAME CONFIGURATION --- //
