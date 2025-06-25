@@ -2,14 +2,14 @@
 // Add URLs to your images here. You need 8 images for a 16-card game.
 // Use simple, child-friendly images.
 const imageSources = [
-    'dinosaurs/dino1.png',
-    'dinosaurs/dino2.png',
-    'dinosaurs/dino3.png',
-    'dinosaurs/dino4.png',
-    'dinosaurs/dino5.png',
-    'dinosaurs/dino6.png',
-    'dinosaurs/dino7.png',
-    'dinosaurs/dino8.png'
+    '/dinosaurs/dino1.png',
+    '/dinosaurs/dino2.png',
+    '/dinosaurs/dino3.png',
+    '/dinosaurs/dino4.png',
+    '/dinosaurs/dino5.png',
+    '/dinosaurs/dino6.png',
+    '/dinosaurs/dino7.png',
+    '/dinosaurs/dino8.png'
 ];
 // --- END IMAGE CUSTOMIZATION --- //
 
