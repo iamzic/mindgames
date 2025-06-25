@@ -1,8 +1,8 @@
 /* ---- THEME CUSTOMIZATION SECTION ---- */
 :root {
     /* Change these colors to theme the game */
-    --primary-color: #4cccfe; /* Light Blue */
-    --secondary-color: #00f2fe; /* Bright Cyan */
+    --primary-color: #ec7063; /* Light Blue */
+    --secondary-color: #f7dc6f; /* Bright Cyan */
     --card-color: #ffffff;
     --card-back-color: #ff7e5f; /* Coral */
     --text-color: #333333;
